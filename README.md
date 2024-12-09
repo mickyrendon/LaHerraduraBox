@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Astro Starter Kit: Basics
 
 ```sh
@@ -46,3 +47,7 @@ All commands are run from the root of the project, from a terminal:
 ## 👀 Want to learn more?
 
 Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+=======
+# LaHerraduraBox
+Official webpage of "Club Deportivo La Herradura Box". Made with Astro and JS
+>>>>>>> ca79b2db68a8cec3dd869f2b7eafd514b73dcbb9
